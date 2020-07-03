@@ -5,9 +5,9 @@ baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
 url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Joanne Zhou RD, CDE
+username: Joanne Zhou
 user_description: Junior Product Manager at MealSuite
-user_title: Registered Dietitian and Product Management Professional
+user_title: Registered Dietitian Product Management Professional
 email: treegreen.jiz@gmail.com
 twitter_username: jwnzhou
 github_username:  jwnzhou
