@@ -2,7 +2,7 @@
 title: Joanne Zhou
 description: Joanne's personal website
 baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://jwnzhou.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Joanne Zhou
